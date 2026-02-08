@@ -2,10 +2,10 @@
   
 # 👋 Hi, I'm Raounak Djebir
 
-### AI Student | ML & Data Science Enthusiast
+### AI Student | Frontend Developer | UI/UX Designer | ML & Data Science Enthusiast
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=3rd+Year+AI+Student+@+ENSTA;Machine+Learning+Enthusiast;Data+Science+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+%26+Computer+Science+Student;Frontend+Developer+%7C+React+Specialist;UI%2FUX+Designer+%7C+Figma+Expert;Machine+Learning+Enthusiast;Data+Science+%26+AI+Passionate" alt="Typing SVG" />
 </p>
 
 </div>
@@ -19,14 +19,17 @@ class Raounak:
     def __init__(self):
         self.location = "Algiers, Algeria"
         self.education = "ENSTA Algiers - AI & Computer Science"
-        self.focus = ["Machine Learning", "AI", "Data Science"]
-        self.currently_learning = "Advanced ML & Deep Learning"
+        self.roles = ["Frontend Developer", "UI/UX Designer", "ML Enthusiast"]
+        self.focus = ["Machine Learning", "AI", "Data Science", "Web Development"]
     
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+    def current_work(self):
+        return {
+            "learning": "Advanced ML & Deep Learning",
+            "building": "AI-powered web applications",
+            "designing": "User-centered interfaces"
+        }
 
 me = Raounak()
-me.say_hi()
 ```
 
 ---
@@ -43,7 +46,7 @@ me.say_hi()
   
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
   
   <!-- AI/ML Libraries -->
@@ -55,14 +58,14 @@ me.say_hi()
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45"/>
   
-  <!-- Tools -->
+  <!-- Design & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
 </p>
 
@@ -72,6 +75,7 @@ me.say_hi()
 
 - 🎓 **Python Developer** - DataCamp
 - 🎓 **Microsoft Azure Fundamentals** - ICAIRE
+- 🎓 **Responsive Web Design** - freeCodeCamp
 - 🎓 **AI & Machine Learning Certifications** - DataCamp (Multiple)
 
 ---
@@ -91,7 +95,7 @@ me.say_hi()
 
 <div align="center">
   
-**✨ Building intelligent solutions, one algorithm at a time ✨**
+**✨ Building intelligent and beautiful solutions ✨**
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
