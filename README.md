@@ -83,12 +83,16 @@ me = Raounak()
 ##  Connect With Me
 
 <div align="center">
-Show Image
-   
-Show Image
+<a href="https://www.linkedin.com/in/raounak-djebir-535a83301/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:djebir.raounak@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
 ---
 
