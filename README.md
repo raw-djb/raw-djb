@@ -14,23 +14,15 @@
 
 ## 🚀 About Me
 
-```python
-class Raounak:
-    def __init__(self):
-        self.location = "Algiers, Algeria"
-        self.education = "ENSTA Algiers - AI & Computer Science"
-        self.roles = ["Frontend Developer", "UI/UX Designer", "ML Enthusiast"]
-        self.focus = ["Machine Learning", "AI", "Data Science", "Web Development"]
-    
-    def current_work(self):
-        return {
-            "learning": "Advanced ML & Deep Learning",
-            "building": "AI-powered web applications",
-            "designing": "User-centered interfaces"
-        }
+🎓 3rd-year Computer Science student at **ENSTA Algiers**, specializing in **Artificial Intelligence**
 
-me = Raounak()
-```
+💻 Passionate about building **intelligent and beautiful solutions** that combine AI with great user experience
+
+🌱 Currently diving deep into **Machine Learning**, **Data Science**, and **Frontend Development**
+
+🎨 Love creating **user-centered interfaces** with React and Figma
+
+📍 Based in Algiers, Algeria
 
 ---
 
