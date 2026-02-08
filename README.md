@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm Raounak Djebir
+# Hi, I'm Raounak Djebir
 
-### AI Student | Frontend Developer | UI/UX Designer | ML & Data Science Enthusiast
+### AI Student | Frontend Developer | UI/UX Designer | AI & ML & Data Science Enthusiast
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+%26+Computer+Science+Student;Frontend+Developer+%7C+React+Specialist;UI%2FUX+Designer+%7C+Figma+Expert;Machine+Learning+Enthusiast;Data+Science+%26+AI+Passionate" alt="Typing SVG" />
@@ -12,17 +12,25 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 3rd-year Computer Science student at **ENSTA Algiers**, specializing in **Artificial Intelligence**
+```python
+class Raounak:
+    def __init__(self):
+        self.location = "Algiers, Algeria"
+        self.education = "ENSTA Algiers - AI & Computer Science"
+        self.roles = ["Frontend Developer", "UI/UX Designer", "ML Enthusiast"]
+        self.focus = ["Machine Learning", "AI", "Data Science", "Web Development"]
+    
+    def current_work(self):
+        return {
+            "learning": "Advanced ML & Deep Learning",
+            "building": "AI-powered web applications",
+            "designing": "User-centered interfaces"
+        }
 
-💻 Passionate about building **intelligent and beautiful solutions** that combine AI with great user experience
-
-🌱 Currently diving deep into **Machine Learning**, **Data Science**, and **Frontend Development**
-
-🎨 Love creating **user-centered interfaces** with React and Figma
-
-📍 Based in Algiers, Algeria
+me = Raounak()
+```
 
 ---
 
@@ -63,23 +71,23 @@
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
-- 🎓 **Python Developer** - DataCamp
-- 🎓 **Microsoft Azure Fundamentals** - ICAIRE
-- 🎓 **Responsive Web Design** - freeCodeCamp
-- 🎓 **AI & Machine Learning Certifications** - DataCamp (Multiple)
+-  **Python Developer** - DataCamp
+-  **Microsoft Azure Fundamentals** - ICAIRE
+-  **AI & Machine Learning Certifications** - DataCamp (Multiple)
+-  **Responsive Web Design** - freeCodeCamp
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raounak-djebir-535a83301/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/raounak-djebir-535a83301/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:djebir.raounak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
@@ -87,8 +95,7 @@
 
 <div align="center">
   
-**✨ Building intelligent and beautiful solutions ✨**
+** Building intelligent and beautiful solutions **
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
