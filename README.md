@@ -37,15 +37,11 @@
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="60%">
-
 Computer Science student specializing in **Artificial Intelligence** at ENSTA Algiers, with a strong interest in building intelligent and user-centered solutions. I have experience in **Python development**, **frontend development**, and **UI/UX design**, allowing me to combine technical problem-solving with creative thinking.
 
 Particularly focused on **Machine Learning**, **NLP**, and **Deep Learning** — continuously sharpening my skills through academic coursework and personal projects.
 
-Currently serving as **Design Department Manager** at Shellmates Club.
+Previously served as **Design Department Manager** at Shellmates Club.
 
 <br/>
 
@@ -55,8 +51,7 @@ Currently serving as **Design Department Manager** at Shellmates Club.
 ![AI Internships](https://img.shields.io/badge/AI%20Internships-4F46E5?style=flat-square&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source%20Collaboration-22D3EE?style=flat-square&logoColor=white)
 
-</td>
-<td valign="top" width="40%">
+<br/>
 
 ```python
 class RaounakDjebir:
@@ -80,10 +75,6 @@ class RaounakDjebir:
     def available_for(self):
         return "Jobs · Projects · Internships · Collab · Open Source"
 ```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
