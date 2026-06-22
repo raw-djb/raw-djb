@@ -16,7 +16,6 @@
 
 ![ENSTA](https://img.shields.io/badge/ENSTA%20Algiers-AI%20Engineering-7C3AED?style=for-the-badge&logoColor=F8FAFC)
 ![Year](https://img.shields.io/badge/4th%20Year-2023--Present-22D3EE?style=for-the-badge&logoColor=F8FAFC)
-![Bac](https://img.shields.io/badge/Baccalaureat-Mathematics-4F46E5?style=for-the-badge&logoColor=F8FAFC)
 
 </div>
 
@@ -24,7 +23,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://linkedin.com/in/Raounak-Djebir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE)]([https://linkedin.com/in/Raounak-Djebir](https://www.linkedin.com/in/raounak-djebir-535a83301/))
 [![Email](https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:djebir.raounak@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/raw-djb)
 
@@ -79,7 +78,7 @@ class RaounakDjebir:
         ]
 
     def available_for(self):
-        return "Internships · Collab · Open Source"
+        return "Jobs · Projects · Internships · Collab · Open Source"
 ```
 
 </td>
@@ -307,7 +306,7 @@ class RaounakDjebir:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://linkedin.com/in/Raounak-Djebir)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE)]([https://linkedin.com/in/Raounak-Djebir](https://www.linkedin.com/in/raounak-djebir-535a83301/))
 [![Email](https://img.shields.io/badge/Send%20an%20Email-0B1020?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:djebir.raounak@gmail.com)
 
 <br/>
