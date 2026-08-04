@@ -14,7 +14,9 @@
 
 ## About
 
-4th-year Computer Science student specializing in **Artificial Intelligence** at ENSTA Algiers. I focus on **Machine Learning**, **Natural Language Processing**, and **Deep Learning**, and also work on frontend development and UI/UX design. Previously served as Design Department Manager at Shellmates Club.
+AI Engineering student at ENSTA Algiers, building end-to-end machine learning systems — from model architecture to the interfaces people actually use. My work spans deep learning, NLP, and computer vision, backed by hands-on projects in phishing detection, image classification, and semantic search, plus formal training through DataCamp and Microsoft/ICAIRE. I lead with the same precision in design as in code, having managed the Design Department at Shellmates Club.
+
+I care about building AI that is accurate, explainable, and genuinely useful — not just technically impressive.
 
 Open to: AI/ML internships · research collaboration · open-source contributions
 
@@ -23,19 +25,43 @@ Open to: AI/ML internships · research collaboration · open-source contribution
 ## Tech Stack
 
 **Languages**
-`Python` · `JavaScript` · `Java` · `C` · `HTML/CSS`
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
 
 **Machine Learning & AI**
-`PyTorch` · `TensorFlow` · `Keras` · `Scikit-learn` · `Hugging Face Transformers` · `OpenCV`
+
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white)
 
 **Data Science**
-`NumPy` · `Pandas` · `Matplotlib` · `Plotly`
+
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-000000?style=flat-square&logo=plotly&logoColor=white)
 
 **Frontend & Design**
-`React` · `Tailwind CSS` · `Streamlit` · `Figma`
+
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 
 **Tools & Infrastructure**
-`Git` · `Flask` · `Docker` · `Azure` · `Linux`
+
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
@@ -43,17 +69,6 @@ Open to: AI/ML internships · research collaboration · open-source contribution
 
 <!--START_PROJECTS-->
 <!--END_PROJECTS-->
-
----
-
-## Experience
-
-| Period | Role | Organization | Location |
-|---|---|---|---|
-| Aug 2025 – Present | Design Department Manager | Shellmates Club | Algiers |
-| Apr 2026 | Observation Internship – AI | ERSTC | Constantine |
-| May 2025 | Frontend Developer | ENSTA Algiers | Algiers |
-| 2023 – Present | Engineering Student – AI | ENSTA Algiers | Algiers |
 
 ---
 
