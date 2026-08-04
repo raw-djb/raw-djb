@@ -24,6 +24,7 @@ jobs:
       - name: Update project list
         env:
           GH_USERNAME: raw-djb
+          README_PATH: README.md
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_repos.py
 
