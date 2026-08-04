@@ -4,7 +4,7 @@ import urllib.request
 import json
 
 USERNAME = os.environ.get("GH_USERNAME", "raw-djb")
-README_PATH = os.environ.get("README_PATH", "README.md")
+README_PATH = os.environ.get("README_PATH", "../README.md")
 MAX_REPOS = 5
 
 START_MARKER = "<!--START_PROJECTS-->"
