@@ -68,12 +68,11 @@ Open to: AI/ML internships · research collaboration · open-source contribution
 ## Latest Public Projects
 
 <!--START_PROJECTS-->
+- **[Distracted-Driver-Detection](https://github.com/raw-djb/Distracted-Driver-Detection)** — _Python_
 - **[raw-djb](https://github.com/raw-djb/raw-djb)** — _Python_
 - **[Attention-Is-All-You-Need](https://github.com/raw-djb/Attention-Is-All-You-Need)** — _Python_
 - **[Deployment-project-DAS](https://github.com/raw-djb/Deployment-project-DAS)** — _Python_
 - **[Image-Classification-with-Neural-Networks-in-Python](https://github.com/raw-djb/Image-Classification-with-Neural-Networks-in-Python)** — _HTML, ★ 1_
-- **[CS_FAQ_ChatBot](https://github.com/raw-djb/CS_FAQ_ChatBot)** — _Python, ★ 1_
-  AI-powered FAQ chatbot for computer science students using NLP and cosine similarity.
 <!--END_PROJECTS-->
 
 ---
