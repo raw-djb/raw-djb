@@ -68,11 +68,11 @@ Open to: AI/ML internships · research collaboration · open-source contribution
 ## Latest Public Projects
 
 <!--START_PROJECTS-->
+- **[TimeSeries-Multi-Storesales](https://github.com/raw-djb/TimeSeries-Multi-Storesales)** — _Python_
 - **[raw-djb](https://github.com/raw-djb/raw-djb)** — _Python_
 - **[Distracted-Driver-Detection](https://github.com/raw-djb/Distracted-Driver-Detection)** — _Python_
 - **[Attention-Is-All-You-Need](https://github.com/raw-djb/Attention-Is-All-You-Need)** — _Python_
 - **[Deployment-project-DAS](https://github.com/raw-djb/Deployment-project-DAS)** — _Python_
-- **[Image-Classification-with-Neural-Networks-in-Python](https://github.com/raw-djb/Image-Classification-with-Neural-Networks-in-Python)** — _HTML, ★ 1_
 <!--END_PROJECTS-->
 
 ---
