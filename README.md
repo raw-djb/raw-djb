@@ -14,11 +14,15 @@
 
 ## About
 
-AI Engineering student at ENSTA Algiers, building end-to-end machine learning systems — from model architecture to the interfaces people actually use. My work spans deep learning, NLP, and computer vision, backed by hands-on projects in phishing detection, image classification, and semantic search, plus formal training through DataCamp and Microsoft/ICAIRE. I lead with the same precision in design as in code, having managed the Design Department at Shellmates Club.
+AI Engineering student at ENSTA Algiers interested in building end-to-end machine learning systems, from data processing and model development to APIs and user interfaces.
 
-I care about building AI that is accurate, explainable, and genuinely useful — not just technically impressive.
+My work includes deep learning, NLP, computer vision, time-series forecasting, and machine learning deployment. I have worked on projects involving phishing detection, image classification, semantic search, sales forecasting, and neural network architectures.
 
-Open to: AI/ML internships · research collaboration · open-source contributions
+I also have experience in design and team management through my role as Design Department Manager at Shellmates Club.
+
+I am interested in building AI systems that are accurate, explainable, and useful in real-world applications.
+
+**Open to:** AI/ML internships · research collaborations · open-source contributions
 
 ---
 
@@ -39,6 +43,7 @@ Open to: AI/ML internships · research collaboration · open-source contribution
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=flat-square&logo=xgboost&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white)
 
@@ -58,10 +63,12 @@ Open to: AI/ML internships · research collaboration · open-source contribution
 **Tools & Infrastructure**
 
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -69,10 +76,10 @@ Open to: AI/ML internships · research collaboration · open-source contribution
 
 <!--START_PROJECTS-->
 - **[TimeSeries-Multi-Storesales](https://github.com/raw-djb/TimeSeries-Multi-Storesales)** — _Python_
-- **[raw-djb](https://github.com/raw-djb/raw-djb)** — _Python_
 - **[Distracted-Driver-Detection](https://github.com/raw-djb/Distracted-Driver-Detection)** — _Python_
 - **[Attention-Is-All-You-Need](https://github.com/raw-djb/Attention-Is-All-You-Need)** — _Python_
 - **[Deployment-project-DAS](https://github.com/raw-djb/Deployment-project-DAS)** — _Python_
+- **[Image-Classification-with-Neural-Networks-in-Python](https://github.com/raw-djb/Image-Classification-with-Neural-Networks-in-Python)** — _HTML_
 <!--END_PROJECTS-->
 
 ---
@@ -81,6 +88,7 @@ Open to: AI/ML internships · research collaboration · open-source contribution
 
 | Certification | Issuer | Hours | Date |
 |---|---|:---:|:---:|
+| Associate AI Engineer for Data Scientists | DataCamp | 40 hrs | Aug 2026 |
 | AI Fundamentals — AI Ethics, GenAI, ML | DataCamp | 10 hrs | Mar 2026 |
 | Python Developer Career Track | DataCamp | 27 hrs | Aug 2025 |
 | Azure Fundamentals | ICAIRE / Microsoft | — | Sep 2025 |
