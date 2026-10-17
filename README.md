@@ -75,11 +75,11 @@ I am interested in building AI systems that are accurate, explainable, and usefu
 ## Latest Public Projects
 
 <!--START_PROJECTS-->
+- **[TP1-WMD-Portfolio-](https://github.com/raw-djb/TP1-WMD-Portfolio-)** — _HTML_
 - **[raw-djb](https://github.com/raw-djb/raw-djb)** — _Python_
 - **[TimeSeries-Multi-Storesales](https://github.com/raw-djb/TimeSeries-Multi-Storesales)** — _Python_
 - **[Distracted-Driver-Detection](https://github.com/raw-djb/Distracted-Driver-Detection)** — _Python_
 - **[Attention-Is-All-You-Need](https://github.com/raw-djb/Attention-Is-All-You-Need)** — _Python_
-- **[Deployment-project-DAS](https://github.com/raw-djb/Deployment-project-DAS)** — _Python_
 <!--END_PROJECTS-->
 
 ---
