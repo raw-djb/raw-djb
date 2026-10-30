@@ -75,11 +75,11 @@ I am interested in building AI systems that are accurate, explainable, and usefu
 ## Latest Public Projects
 
 <!--START_PROJECTS-->
-- **[TP-ML-DJEBIR-Raounak](https://github.com/raw-djb/TP-ML-DJEBIR-Raounak)** — _Jupyter Notebook_
+- **[TP2-WAMD-React-Application](https://github.com/raw-djb/TP2-WAMD-React-Application)** — _JavaScript_
 - **[raw-djb](https://github.com/raw-djb/raw-djb)** — _Python_
+- **[TP-ML-DJEBIR-Raounak](https://github.com/raw-djb/TP-ML-DJEBIR-Raounak)** — _Jupyter Notebook_
 - **[TP1-WMD-Portfolio-](https://github.com/raw-djb/TP1-WMD-Portfolio-)** — _HTML_
 - **[TimeSeries-Multi-Storesales](https://github.com/raw-djb/TimeSeries-Multi-Storesales)** — _Python_
-- **[Distracted-Driver-Detection](https://github.com/raw-djb/Distracted-Driver-Detection)** — _Python_
 <!--END_PROJECTS-->
 
 ---
